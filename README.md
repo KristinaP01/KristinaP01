@@ -101,7 +101,7 @@ For recent updates | [Site #3](https://kristinap09.github.io/)
 ## 🌍 Availability
 
 I am open to global opportunities and will be available for new roles starting **October 2025**. If you are looking for expertise in machine learning, edge AI, or distributed systems, feel free to connect!  
-> **Note:** Due to two-factor authentication issues, the KristinaP09 account is currently inaccessible. Please refer to my [Resume](https://kristinap09.github.io/pdf/cv/index.html) & [CV](https://kristinap09.github.io/pdf/my_cv.pdf) and contact me via my personal email: **[ndkristinaps25@gmail.com](mailto:ndkristinaps25@gmail.com)**.
+> **Note:** Contact me via my personal email: **[ndkristinaps25@gmail.com](mailto:ndkristinaps25@gmail.com)**.
 
 ---
 
