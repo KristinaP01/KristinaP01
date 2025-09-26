@@ -69,7 +69,7 @@ For recent updates | [Site #3](https://kristinap09.github.io/)
 
 - Machine Learning
 - Supervised & Unsupervised Learning
-- Dee Learning
+- Deep Learning
 - Data Analysis  
 - Edge AI  
 - Pattern Recognition  
