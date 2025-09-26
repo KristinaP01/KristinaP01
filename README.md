@@ -46,7 +46,8 @@ For recent updates | [Site #3](https://kristinap09.github.io/)
 
 ## 🔭 Research
 
-- Clustering & Multi-View Learning  
+- Clustering & Multi-View Learning
+- Hybrid (Supervised/Deep Learning) 
 - Federated & Distributed Learning  
 - Edge AI & Cyber-Physical Systems  
 - Pattern Recognition  
@@ -66,7 +67,9 @@ For recent updates | [Site #3](https://kristinap09.github.io/)
 
 ### Proficiency
 
-- Machine Learning  
+- Machine Learning
+- Supervised & Unsupervised Learning
+- Dee Learning
 - Data Analysis  
 - Edge AI  
 - Pattern Recognition  
